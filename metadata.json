@@ -1,0 +1,6 @@
+{
+  "name": "GetVeevz Campaign Management Platform",
+  "description": "Comprehensive campaign management platform for GetVeevz with dedicated Admin, Client, and Clipper dashboards, automated payouts, view tracking, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
